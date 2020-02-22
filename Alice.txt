@@ -1,4 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This is the second line of the file
-Someone else has added text to this file.
-And they added this text too.
+This is the second line of the file. It has been changed.
+Now here is a third line.
